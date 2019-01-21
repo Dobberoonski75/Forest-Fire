@@ -1,0 +1,6 @@
+# Ignore bash scripts.
+app
+build
+
+# Ignore compiled .o files.
+*.o
